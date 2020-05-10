@@ -1,5 +1,11 @@
 # Asymmetric Deep Supervised Hashing
 
+# Paper
+https://cs.nju.edu.cn/lwj/paper/AAAI18_ADSH.pdf
+
+# Reference
+Jiang Q Y , Li W J . Asymmetric Deep Supervised Hashing[J]. 2017.
+
 ## REQUIREMENTS
 1. pytorch >= 1.0
 2. loguru
